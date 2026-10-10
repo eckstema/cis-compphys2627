@@ -1,0 +1,9 @@
+name: physics_course
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - notebook

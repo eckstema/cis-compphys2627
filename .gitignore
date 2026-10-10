@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Computational Physics course
+.conda/
+.ipynb_checkpoints/
+.DS_Store
+code/workspace/
+data/
+code/**/data/
+notes/
+*.csv
+*.npy
