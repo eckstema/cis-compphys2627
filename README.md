@@ -1,4 +1,4 @@
-# Computational Physics 2026/27
+#  Computational Physics 2026/27
 
 Lecture notes and code examples for the CIS Computational Physics course at the
 University of Hamburg.
